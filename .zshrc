@@ -16,6 +16,7 @@ source $ZSH/oh-my-zsh.sh
 
 alias sl=ls
 alias s=ls
+alias ks=ls
 alias kls=ls
 alias c=/home/aandriam/command_sh/clear_me.sh
 alias o=/home/aandriam/command_sh/open_me.sh
